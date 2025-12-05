@@ -15,7 +15,7 @@ More projects coming soon (phylogenetics, NGS pipelines, Python tools, etc.)
 
 ### Connect
 - GitHub: [@GhashiaMukhtar](https://github.com/GhashiaMukhtar)  
-- Email: (ghashiamukhtar9@gmail.com)  
-- LinkedIn: (add when you create)
+- Email: ghashiamukhtar9@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/ghashia-mukhtar
 
 ⭐ Star this repo if you find it useful!
